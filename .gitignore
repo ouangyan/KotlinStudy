@@ -1,0 +1,15 @@
+*.iml
+*.bin
+*.class
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.idea
+release
+app/libs
+app/src/main/java/org/pjsip/pjsua2
