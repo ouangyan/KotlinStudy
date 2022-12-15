@@ -23,8 +23,8 @@ class Player(
     }
 
     // 次构造函数（必须直接或间接调用主构造函数）
-    constructor(_name:String):this(_name,20){
-        isNormal = false
+        constructor(_name:String):this(_name,20){
+            isNormal = false
     }
 }
 
